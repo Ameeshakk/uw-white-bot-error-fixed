@@ -41,32 +41,32 @@ global.doc5 = 'application/pdf'
 global.doc6 = 'application/vnd.android.package-archive'
 
 //owmner v card
-global.owner = ['761192103'] //ur owner number
-global.ownername = "Udavin Wijesundara"
-global.ytname = "YT: UW TECH SHOW" //ur yt chanel name
-global.socialm = "Insta: udavin_wijesundara" //ur github or insta name
+global.owner = ['719838879'] //ur owner number
+global.ownername = "༻Naughty Binu༺"
+global.ytname = "YT: SL TECHNICAL TIPS" //ur yt chanel name
+global.socialm = "Insta: naughty_binu" //ur github or insta name
 global.location = "Sri-Lanka" //ur location
 
 //bot bombdy
-global.botname = "White King WhatsApp Bot" //ur bot name
-global.websitex = "https://www.youtube.com/channel/UC8CNAgNIXy1O2vLBBSN7tcA" //ur website
+global.botname = "NBMODS WhatsApp Bot" //ur bot name
+global.websitex = "https://youtube.com/channel/UCxpbzNk5UW9GuFMLnYiZBLg" //ur website
 global.vidmenu = { url: 'https://a.uguu.se/zlzQZvXH.mp4' } //gif and video menu
 global.packname = "Cheems Bot Stickers\n\n\n\n\n\n\n🦄🦄🦄 "
-global.author = "Udavin Wijesundara"
-global.themeemoji = "🐶"
-global.reactmoji = "😘"
-global.ownertag = ['761192103'] //ur owner tag
-global.ownernummenu = ['761192103'] //ur owner number in menu and all
-global.watermark = "White King WhatsApp Bot." //ur watermark
+global.author = "Naughty Binu"
+global.themeemoji = "🥎"
+global.reactmoji = "🖕"
+global.ownertag = ['719838879'] //ur owner tag
+global.ownernummenu = ['719838879'] //ur owner number in menu and all
+global.watermark = "NBMODS WhatsApp Bot." //ur watermark
 global.botscript = "https://www.youtube.com/watch?v=vXBO1zJbGJ4"
-global.linkz1 = "https://chat.whatsapp.com/Ivsw8fEw5lW0n0qKEDHfUX"
-global.linkz2 = "https://chat.whatsapp.com/Jub3moTE7jaBERo8DqWXC1"
+global.linkz1 = "https://chat.whatsapp.com/LP6uEU1EwJE8bgry4D7xTr"
+global.linkz2 = "https://chat.whatsapp.com/LP6uEU1EwJE8bgry4D7xTr"
 
 //Bot theme media
-global.thum = fs.readFileSync("./XeonMedia/theme/cheemspic.jpg") //ur thumb pic
-global.log0 = fs.readFileSync("./XeonMedia/theme/cheemspic.jpg") //ur logo pic
-global.err4r = fs.readFileSync("./XeonMedia/theme/cheemspic.jpg") //ur error pic
-global.thumb = fs.readFileSync("./XeonMedia/theme/cheemspic.jpg") //ur thumb pic
+global.thum = fs.readFileSync("https://www.linkpicture.com/q/ʂƖ-ɬɛƈɧŋıƈąƖ-ɬıwʂ-ơʄƈc-20220701_144610.jpg") //ur thumb pic
+global.log0 = fs.readFileSync("https://www.linkpicture.com/q/ʂƖ-ɬɛƈɧŋıƈąƖ-ɬıwʂ-ơʄƈc-20220701_144610.jpg") //ur logo pic
+global.err4r = fs.readFileSync("https://www.linkpicture.com/q/ʂƖ-ɬɛƈɧŋıƈąƖ-ɬıwʂ-ơʄƈc-20220701_144610.jpg") //ur error pic
+global.thumb = fs.readFileSync("https://www.linkpicture.com/q/ʂƖ-ɬɛƈɧŋıƈąƖ-ɬıwʂ-ơʄƈc-20220701_144610.jpg") //ur thumb pic
 
 //database
 global.ntilinkytvid = []
