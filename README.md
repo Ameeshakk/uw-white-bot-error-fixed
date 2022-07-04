@@ -1,4 +1,4 @@
-<h1 align="center">WHITE KING WHATSAPP BOT V1<br></h1>
+<h1 align="center">NBMODS WHATSAPP BOT V1<br></h1>
 <p align="center">
 <img src="https://media.tenor.com/images/e15cb1453a09e25bab41116d930329bf/tenor.gif" alt="animated" width="540" height="280" />
 </p>
@@ -14,7 +14,7 @@ Cheems Bot Multi Device is a automated whatsapp bot created by <a href="https://
 ------
 ## ```Connect With Me```
 <p align="center">
-<a href="https://wa.me/94761192103"><img src="https://img.shields.io/badge/Contact Udavin-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" />
+<a href="https://wa.me/94719838879"><img src="https://img.shields.io/badge/Contact Udavin-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" />
 <a href="https://chat.whatsapp.com/Ivsw8fEw5lW0n0qKEDHfUX"><img src="https://img.shields.io/badge/Join Official GC-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" />
 <a href="https://www.youtube.com/channel/UC8CNAgNIXy1O2vLBBSN7tcA"><img src="https://img.shields.io/badge/Subscribe uw tesh show-ff0000?style=for-the-badge&logo=youtube&logoColor=ff000000&link=https://www.youtube.com/c/BOTINDO" /><br>
 </p>
