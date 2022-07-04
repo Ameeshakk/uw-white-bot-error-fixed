@@ -41,7 +41,7 @@ global.doc5 = 'application/pdf'
 global.doc6 = 'application/vnd.android.package-archive'
 
 //owmner v card
-global.owner = ['719838879'] //ur owner number
+global.owner = ['94719838879'] //ur owner number
 global.ownername = "༻Naughty Binu༺"
 global.ytname = "YT: SL TECHNICAL TIPS" //ur yt chanel name
 global.socialm = "Insta: naughty_binu" //ur github or insta name
@@ -55,8 +55,8 @@ global.packname = "Cheems Bot Stickers\n\n\n\n\n\n\n🦄🦄🦄 "
 global.author = "Naughty Binu"
 global.themeemoji = "🥎"
 global.reactmoji = "🖕"
-global.ownertag = ['719838879'] //ur owner tag
-global.ownernummenu = ['719838879'] //ur owner number in menu and all
+global.ownertag = ['94719838879'] //ur owner tag
+global.ownernummenu = ['94719838879'] //ur owner number in menu and all
 global.watermark = "NBMODS WhatsApp Bot." //ur watermark
 global.botscript = "https://www.youtube.com/watch?v=vXBO1zJbGJ4"
 global.linkz1 = "https://chat.whatsapp.com/LP6uEU1EwJE8bgry4D7xTr"
